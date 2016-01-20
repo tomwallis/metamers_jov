@@ -35,7 +35,7 @@ The rest of the materials are available from [here](http://doi.org/10.5281/zenod
 
 
 
-## Important note re: code labelling
+## Important note about experiment labelling
 
 I have run a number of related experiments that were not reported in the paper.These experiments tried and failed to make discrimination performance worse (i.e. to generate convincing metamers with the Portilla and Simoncelli texture syntheses), and should be considered unreported pilots. 
 
