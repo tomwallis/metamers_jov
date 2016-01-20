@@ -11,16 +11,24 @@ If you use or modify this code or the data in an academic publication, please ci
 Wallis, T.S.A., Bethge, M. & Wichmann, F. A. (in press). Testing models of peripheral encoding using metamerism in an oddity paradigm. *Journal of Vision*.
 
 
+## Code
+The code in this git repository is also available with DOI from Zenodo [here](http://doi.org/10.5281/zenodo.34218).
+
+## Data and stimuli
+
+The data and stimuli are available [here](http://doi.org/10.5281/zenodo.32784).
+
 ## Directory structure
 
-This git repository contains all code for the project (also available with DOI from Zenodo [here](http://doi.org/10.5281/zenodo.34218)). You can pair this code with the other materials (stimuli and data) available [here](http://doi.org/10.5281/zenodo.32784).
-
-To ensure the paths all work correctly, place all the materials into a directory named `metamers-natural-scenes`. Within this top-level folder, the subdirectories should be:
+This git repository contains all code for the project. You can pair this code with the other materials (stimuli and data). To ensure the paths all work correctly, place all the materials into a directory named `metamers-natural-scenes`. Within this top-level folder, the subdirectories should be:
 
 * `/code/` contains all code for running experiments and analyses (what's available on this git repo)
     - `/analysis` = data analysis code
     - `/experiment` = code to run experiments in psychtoolbox
     - `/stimuli` = code to generate stimuli
+
+The rest of the materials are available from [here](http://doi.org/10.5281/zenodo.32784). They should be placed in the top level directory.
+
 * `/raw-data/` contains all raw data (individual session files and eyetracking), subfolder for each experiment. Eyetracking data is in `/raw-data/experiment-N/eye_data_files/`.
 * `/results` contains aggregated results files used for analysis and some analysis output. I have not provided the MCMC samples I report in the paper because they are stored as pickle files in python, which constitute a security risk for sharing. They are available upon request (or just re-run the sampling yourself).
 * `/stimuli` contains the images shown to observers in the experiments.
