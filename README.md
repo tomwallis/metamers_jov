@@ -1,6 +1,6 @@
 # Documentation and overview of materials for Wallis, Bethge & Wichmann
 
-**Tom Wallis, November 2015.**
+**Tom Wallis, January 2016.**
 
 The following repository provides code and data used in the forthcoming paper "Testing models of peripheral encoding using metamerism in an oddity paradigm" by Wallis, Bethge & Wichmann. I understand that much of this process could be improved, but this is where I currently am for reproducibility in my own workflow. Open science is a learning curve!
 
