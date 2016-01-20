@@ -1,0 +1,35 @@
+## Parameters for stimulus generation. See exp_8_stimulus_dev for calculation.
+
+experiment_num: 14  # the number of this experiment (for saving stim).
+eccent: 10  # eccent in degrees to centre the target patch.
+pix_per_deg: 43  # number of pixels per degree
+rms: 0.3  # rms contrast to use for the (global) stimuli
+# sizes for patch generation:
+sizes: 256
+background_size: 768  # the size of the background image (full crop).
+patch_rms_min: 0.1  # the minimum rms allowable in a patch.
+blur_sigmas: [0.4, 0.6, 0.8, 1., 2., 4.]  # sigma of blur kernel in pixels.
+
+inner: 256  # the size of the inner patch in px.
+outer: 256  # size of the outer patch in px.
+middle: 512  # max size of the middle patch in px
+
+middle_centre: 10  # centre of the middle patch from fovea in deg.
+middle_centre_px: 430  # centre of the middle patch from fovea in px.
+middle_centre_img: 384  # centre of the middle patch in background image coords, px.
+
+# farthest possible positions for inner and outer patches (px from fovea):
+inner_centre_max_px: 174
+outer_centre_max_px: 686
+
+# farthest possible positions for inner and outer patches (px in img):
+inner_centre_max_img: 128
+outer_centre_max_img: 640
+
+# for each target patch size, the x-location of the surrounds (px from fovea):
+inner_patch_px: [286, 174]
+outer_patch_px: [574, 686]
+
+# for each target patch size, the x-location of the surrounds (px in img):
+inner_patch_img: [240, 128]
+outer_patch_img: [528, 640]

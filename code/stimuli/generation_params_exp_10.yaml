@@ -1,0 +1,17 @@
+## Parameters for stimulus generation. See exp_8_stimulus_dev for calculation.
+
+experiment_num: 10  # the number of this experiment (for saving stim).
+eccent: 10  # eccent in degrees to centre the target patch.
+pix_per_deg: 43  # number of pixels per degree
+rms: 0.3  # rms contrast to use for the (global) stimuli
+# sizes for presentation (including downsampling):
+patch_sizes: [32, 64, 128, 192, 256, 384, 512]
+background_size: 512  # the size of the background image (full crop).
+patch_rms_min: 0.15  # the minimum rms allowable in a patch.
+n_ims: 700  # the desired number of images
+
+middle: 512  # max size of the middle patch in px
+
+middle_centre: 10  # centre of the middle patch from fovea in deg.
+middle_centre_px: 430  # centre of the middle patch from fovea in px.
+middle_centre_img: 384  # centre of the middle patch in background image coords, px.

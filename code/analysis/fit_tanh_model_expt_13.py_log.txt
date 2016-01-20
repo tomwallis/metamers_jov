@@ -1,0 +1,424 @@
+
+
+Script: fit_tanh_model_expt_13.py
+
+Called on: 2015-06-25 02:19:19.667795
+
+OS: darwin
+Python version: 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)]
+
+
+Available packages via pip:
+Cython==0.22
+docutils==0.12
+ipython==3.0.0
+ipython-journal==0.0.2
+Jinja2==2.7.3
+jsonschema==2.4.0
+lxml==3.4.4
+MarkupSafe==0.23
+matplotlib==1.4.3
+mistune==0.5
+nose==1.3.4
+numexpr==2.3.1
+numpy==1.9.2
+pandas==0.15.2
+patsy==0.3.0
+Pillow==2.7.0
+-e git+https://github.com/tomwallis/PsyUtils.git@07e0fd8ff13ff179b6ccc61cd52253fd989d1290#egg=PsyUtils-master
+ptyprocess==0.4
+Pygments==2.0.2
+pyparsing==2.0.3
+pystan==2.6.3.0
+python-dateutil==2.1
+pytz==2014.9
+PyYAML==3.11
+pyzmq==14.5.0
+scikit-image==0.10.1
+scikit-learn==0.15.2
+scipy==0.15.1
+seaborn==0.5.1
+six==1.9.0
+Sphinx==1.2.3
+statsmodels==0.6.1
+svgutils==0.1.0
+tables==3.1.1
+terminado==0.5
+tornado==4.1
+
+
+ (note, not all these packages are loaded by script).
+------------------------------------------------------
+------------------------------------------------------
+
+
+Script: fit_tanh_model_expt_13.py
+
+Called on: 2015-06-25 08:05:45.456488
+
+OS: darwin
+Python version: 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)]
+
+
+Available packages via pip:
+Cython==0.22
+docutils==0.12
+ipython==3.0.0
+ipython-journal==0.0.2
+Jinja2==2.7.3
+jsonschema==2.4.0
+lxml==3.4.4
+MarkupSafe==0.23
+matplotlib==1.4.3
+mistune==0.5
+nose==1.3.4
+numexpr==2.3.1
+numpy==1.9.2
+pandas==0.15.2
+patsy==0.3.0
+Pillow==2.7.0
+-e git+https://github.com/tomwallis/PsyUtils.git@07e0fd8ff13ff179b6ccc61cd52253fd989d1290#egg=PsyUtils-master
+ptyprocess==0.4
+Pygments==2.0.2
+pyparsing==2.0.3
+pystan==2.6.3.0
+python-dateutil==2.1
+pytz==2014.9
+PyYAML==3.11
+pyzmq==14.5.0
+scikit-image==0.10.1
+scikit-learn==0.15.2
+scipy==0.15.1
+seaborn==0.5.1
+six==1.9.0
+Sphinx==1.2.3
+statsmodels==0.6.1
+svgutils==0.1.0
+tables==3.1.1
+terminado==0.5
+tornado==4.1
+
+
+ (note, not all these packages are loaded by script).
+------------------------------------------------------
+------------------------------------------------------
+
+
+Script: fit_tanh_model_expt_13.py
+
+Called on: 2015-06-25 08:14:20.856053
+
+OS: darwin
+Python version: 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)]
+
+
+Available packages via pip:
+Cython==0.22
+docutils==0.12
+ipython==3.0.0
+ipython-journal==0.0.2
+Jinja2==2.7.3
+jsonschema==2.4.0
+lxml==3.4.4
+MarkupSafe==0.23
+matplotlib==1.4.3
+mistune==0.5
+nose==1.3.4
+numexpr==2.3.1
+numpy==1.9.2
+pandas==0.15.2
+patsy==0.3.0
+Pillow==2.7.0
+-e git+https://github.com/tomwallis/PsyUtils.git@07e0fd8ff13ff179b6ccc61cd52253fd989d1290#egg=PsyUtils-master
+ptyprocess==0.4
+Pygments==2.0.2
+pyparsing==2.0.3
+pystan==2.6.3.0
+python-dateutil==2.1
+pytz==2014.9
+PyYAML==3.11
+pyzmq==14.5.0
+scikit-image==0.10.1
+scikit-learn==0.15.2
+scipy==0.15.1
+seaborn==0.5.1
+six==1.9.0
+Sphinx==1.2.3
+statsmodels==0.6.1
+svgutils==0.1.0
+tables==3.1.1
+terminado==0.5
+tornado==4.1
+
+
+ (note, not all these packages are loaded by script).
+------------------------------------------------------
+------------------------------------------------------
+
+
+Script: fit_tanh_model_expt_13.py
+
+Called on: 2015-06-25 10:14:52.581845
+
+OS: darwin
+Python version: 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)]
+
+
+Available packages via pip:
+Cython==0.22
+docutils==0.12
+ipython==3.0.0
+ipython-journal==0.0.2
+Jinja2==2.7.3
+jsonschema==2.4.0
+lxml==3.4.4
+MarkupSafe==0.23
+matplotlib==1.4.3
+mistune==0.5
+nose==1.3.4
+numexpr==2.3.1
+numpy==1.9.2
+pandas==0.15.2
+patsy==0.3.0
+Pillow==2.7.0
+-e git+https://github.com/tomwallis/PsyUtils.git@07e0fd8ff13ff179b6ccc61cd52253fd989d1290#egg=PsyUtils-master
+ptyprocess==0.4
+Pygments==2.0.2
+pyparsing==2.0.3
+pystan==2.6.3.0
+python-dateutil==2.1
+pytz==2014.9
+PyYAML==3.11
+pyzmq==14.5.0
+scikit-image==0.10.1
+scikit-learn==0.15.2
+scipy==0.15.1
+seaborn==0.5.1
+six==1.9.0
+Sphinx==1.2.3
+statsmodels==0.6.1
+svgutils==0.1.0
+tables==3.1.1
+terminado==0.5
+tornado==4.1
+
+
+ (note, not all these packages are loaded by script).
+------------------------------------------------------
+------------------------------------------------------
+
+
+Script: fit_tanh_model_expt_13.py
+
+Called on: 2015-06-25 10:55:37.792489
+
+OS: darwin
+Python version: 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)]
+
+
+Available packages via pip:
+Cython==0.22
+docutils==0.12
+ipython==3.0.0
+ipython-journal==0.0.2
+Jinja2==2.7.3
+jsonschema==2.4.0
+lxml==3.4.4
+MarkupSafe==0.23
+matplotlib==1.4.3
+mistune==0.5
+nose==1.3.4
+numexpr==2.3.1
+numpy==1.9.2
+pandas==0.15.2
+patsy==0.3.0
+Pillow==2.7.0
+-e git+https://github.com/tomwallis/PsyUtils.git@07e0fd8ff13ff179b6ccc61cd52253fd989d1290#egg=PsyUtils-master
+ptyprocess==0.4
+Pygments==2.0.2
+pyparsing==2.0.3
+pystan==2.6.3.0
+python-dateutil==2.1
+pytz==2014.9
+PyYAML==3.11
+pyzmq==14.5.0
+scikit-image==0.10.1
+scikit-learn==0.15.2
+scipy==0.15.1
+seaborn==0.5.1
+six==1.9.0
+Sphinx==1.2.3
+statsmodels==0.6.1
+svgutils==0.1.0
+tables==3.1.1
+terminado==0.5
+tornado==4.1
+
+
+ (note, not all these packages are loaded by script).
+------------------------------------------------------
+------------------------------------------------------
+
+
+Script: fit_tanh_model_expt_13.py
+
+Called on: 2015-06-25 13:07:47.036635
+
+OS: darwin
+Python version: 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)]
+
+
+Available packages via pip:
+Cython==0.22
+docutils==0.12
+ipython==3.0.0
+ipython-journal==0.0.2
+Jinja2==2.7.3
+jsonschema==2.4.0
+lxml==3.4.4
+MarkupSafe==0.23
+matplotlib==1.4.3
+mistune==0.5
+nose==1.3.4
+numexpr==2.3.1
+numpy==1.9.2
+pandas==0.15.2
+patsy==0.3.0
+Pillow==2.7.0
+-e git+https://github.com/tomwallis/PsyUtils.git@07e0fd8ff13ff179b6ccc61cd52253fd989d1290#egg=PsyUtils-master
+ptyprocess==0.4
+Pygments==2.0.2
+pyparsing==2.0.3
+pystan==2.6.3.0
+python-dateutil==2.1
+pytz==2014.9
+PyYAML==3.11
+pyzmq==14.5.0
+scikit-image==0.10.1
+scikit-learn==0.15.2
+scipy==0.15.1
+seaborn==0.5.1
+six==1.9.0
+Sphinx==1.2.3
+statsmodels==0.6.1
+svgutils==0.1.0
+tables==3.1.1
+terminado==0.5
+tornado==4.1
+
+
+ (note, not all these packages are loaded by script).
+------------------------------------------------------
+------------------------------------------------------
+
+
+Script: fit_tanh_model_expt_13.py
+
+Called on: 2015-06-25 13:16:44.478109
+
+OS: darwin
+Python version: 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)]
+
+
+Available packages via pip:
+Cython==0.22
+docutils==0.12
+ipython==3.0.0
+ipython-journal==0.0.2
+Jinja2==2.7.3
+jsonschema==2.4.0
+lxml==3.4.4
+MarkupSafe==0.23
+matplotlib==1.4.3
+mistune==0.5
+nose==1.3.4
+numexpr==2.3.1
+numpy==1.9.2
+pandas==0.15.2
+patsy==0.3.0
+Pillow==2.7.0
+-e git+https://github.com/tomwallis/PsyUtils.git@07e0fd8ff13ff179b6ccc61cd52253fd989d1290#egg=PsyUtils-master
+ptyprocess==0.4
+Pygments==2.0.2
+pyparsing==2.0.3
+pystan==2.6.3.0
+python-dateutil==2.1
+pytz==2014.9
+PyYAML==3.11
+pyzmq==14.5.0
+scikit-image==0.10.1
+scikit-learn==0.15.2
+scipy==0.15.1
+seaborn==0.5.1
+six==1.9.0
+Sphinx==1.2.3
+statsmodels==0.6.1
+svgutils==0.1.0
+tables==3.1.1
+terminado==0.5
+tornado==4.1
+
+
+ (note, not all these packages are loaded by script).
+------------------------------------------------------
+------------------------------------------------------
+
+
+Script: fit_tanh_model_expt_13.py
+
+Called on: 2015-06-25 14:51:32.731638
+
+OS: darwin
+Python version: 3.4.2 |Continuum Analytics, Inc.| (default, Oct 21 2014, 17:42:20) 
+[GCC 4.2.1 (Apple Inc. build 5577)]
+
+
+Available packages via pip:
+Cython==0.22
+docutils==0.12
+ipython==3.0.0
+ipython-journal==0.0.2
+Jinja2==2.7.3
+jsonschema==2.4.0
+lxml==3.4.4
+MarkupSafe==0.23
+matplotlib==1.4.3
+mistune==0.5
+nose==1.3.4
+numexpr==2.3.1
+numpy==1.9.2
+pandas==0.15.2
+patsy==0.3.0
+Pillow==2.7.0
+-e git+https://github.com/tomwallis/PsyUtils.git@07e0fd8ff13ff179b6ccc61cd52253fd989d1290#egg=PsyUtils-master
+ptyprocess==0.4
+Pygments==2.0.2
+pyparsing==2.0.3
+pystan==2.6.3.0
+python-dateutil==2.1
+pytz==2014.9
+PyYAML==3.11
+pyzmq==14.5.0
+scikit-image==0.10.1
+scikit-learn==0.15.2
+scipy==0.15.1
+seaborn==0.5.1
+six==1.9.0
+Sphinx==1.2.3
+statsmodels==0.6.1
+svgutils==0.1.0
+tables==3.1.1
+terminado==0.5
+tornado==4.1
+
+
+ (note, not all these packages are loaded by script).
+------------------------------------------------------
+------------------------------------------------------
