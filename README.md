@@ -8,7 +8,7 @@ The following repository provides code and data used in the forthcoming paper "T
 
 If you use or modify this code or the data in an academic publication, please cite the paper (please update the citation accordingly once the manuscript is out):
 
-Wallis, T.S.A., Bethge, M. & Wichmann, F. A. (2016). Testing models of peripheral encoding using metamerism in an oddity paradigm. *Journal of Vision 16*(2), 4.
+[Wallis, T.S.A., Bethge, M. & Wichmann, F. A. (2016). Testing models of peripheral encoding using metamerism in an oddity paradigm. *Journal of Vision 16*(2), 4.](http://jov.arvojournals.org/article.aspx?articleid=2503433)
 
 
 ## Code
